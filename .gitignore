@@ -1,0 +1,8 @@
+nb_list.json
+notebook_source_all.json
+s_*.json
+.serena/
+.kiro/
+.claude/
+.cursor/
+.github/instructions/

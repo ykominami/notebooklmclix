@@ -1,0 +1,17 @@
+[project]
+name = "notebooklmclix"
+version = "0.1.1"
+description = "NotebookLM CLI"
+readme = "README.md"
+authors = [
+    { name = "ykominami", email = "ykominami@gmail.com" }
+]
+requires-python = ">=3.13"
+dependencies = []
+
+[project.scripts]
+notebooklmclix = "notebooklmclix:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
